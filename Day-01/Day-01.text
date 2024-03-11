@@ -64,51 +64,51 @@ Day-01[11-03-2024]:
 		- Try to select windows x64 executeable fiel to download the software if it is 64 bit. If the system bit is 32 then we need to select windows x86 executeable installer
 
 	Python Installation:
-    ====================
-    > After Downloading the python software we need to double tap on it then and ask permissions to allow the software to install in your local system we need to tap "yes" to proceed for it.
-    > It will displays 2 options and 2 checkboxes such as
-        2 checkboxes:
-        =============
-            - Install for all users
-            - Add python 3.x to path
-            > For all users we need to access python then we need to check first option
-            > We need to set a path by default in environment variable path then we need to select this option. If not then it displays an error in "command prompt" while accessing python
-
-        2 options:
-        ==========
-            - install now [Default path]
-            - customize installation [User selected path]
-        > While clicking on "install now" by default it automatically allocates to the path such as "c:/users/username/AppData/Local/Programs/Python/Python3x/".
-            Here python will be installed if we select this option while installing it
-        > Custom installation is user defined location path like c drive or d drive or etc., in that location the python will be installed but we need to select the "Add python 3.x to path" if not the python interpreter will not work in command prompt
-
-    Python Version Check or Checking whether it is installed in local machine or not?
-
+	====================
+		> After Downloading the python software we need to double tap on it then and ask permissions to allow the software to install in your local system we need to tap "yes" to proceed for it.
+		> It will displays 2 options and 2 checkboxes such as
+		2 checkboxes:
+		=============
+		    - Install for all users
+		    - Add python 3.x to path
+		    > For all users we need to access python then we need to check first option
+		    > We need to set a path by default in environment variable path then we need to select this option. If not then it displays an error in "command prompt" while accessing python
+		
+		2 options:
+		==========
+		    - install now [Default path]
+		    - customize installation [User selected path]
+		> While clicking on "install now" by default it automatically allocates to the path such as "c:/users/username/AppData/Local/Programs/Python/Python3x/".
+		    Here python will be installed if we select this option while installing it
+		> Custom installation is user defined location path like c drive or d drive or etc., in that location the python will be installed but we need to select the "Add python 3.x to path" if not the python interpreter will not work in command prompt
+		
+	Python Version Check or Checking whether it is installed in local machine or not?
+	
 	Python Version Check:
 	=====================
 		- cmd
 		- python -V
 
 	Pip:
-    ====
-    > Pip is used to install third party packages related to python such as jupyter notebook,numpy,pandas,matplotlib and some machine learning packages
-    > First we need to check the pip version by using the command in command prompt such as
-        => pip -V
-    > To install jupyter notebook we need to open the command prompt then we need to type the command such as
-        Syntax:
-        -------
-            - cmd
-            - pip install <packagename>
+	====
+		> Pip is used to install third party packages related to python such as jupyter notebook,numpy,pandas,matplotlib and some machine learning packages
+		> First we need to check the pip version by using the command in command prompt such as
+			=> pip -V
+		> To install jupyter notebook we need to open the command prompt then we need to type the command such as
+		Syntax:
+		-------
+		    - cmd
+		    - pip install <packagename>
+		
+	Pip Upgrade:
+	============
+		> open command prompt and then need to type command such as
+			=> python -m pip install --upgrade pip
+			It will upgrades the pip from lower version to updated version
+		> After upgrading the pip we need to install the jupyter notebook again because the latest packages and libraries will be update to local system	
 
-    Pip Upgrade:
-    ============
-    > open command prompt and then need to type command such as
-        => python -m pip install --upgrade pip
-        It will upgrades the pip from lower version to updated version
-    > After upgrading the pip we need to install the jupyter notebook again because the latest packages and libraries will be update to local system	
-
-    Task:
-    =====
-    	- Python concepts like list,tuple and dictionary
-    	- Function types,User Defined Function types and Function argument types
-    	- Packages and modules
+	Task:
+	=====
+	- Python concepts like list,tuple and dictionary
+	- Function types,User Defined Function types and Function argument types
+	- Packages and modules
