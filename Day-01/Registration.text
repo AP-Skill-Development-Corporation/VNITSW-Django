@@ -1,0 +1,80 @@
+Registration Process:
+=====================
+	http://engineering.apssdc.in/register
+
+	College District:
+	College Name:
+	Degree:
+	Pursuing Year: 3rd/2nd year
+	Branch: AI/ML/CY => Computer Science & Engineering
+	Program Type: Workshops
+	Program Name: Web Development Using Django 2023-24
+	Program: Python
+	Aadhar number: [Enter Your Aadhar Number]
+	Roll Number: [Complete Number]
+	Emailid: Working Mail id
+	Mobile Number: 
+
+		After Filling the form you will get a window that defines to navigate for email for further registration process
+
+	Email:
+		=> You need to check the program you have registered for correct program or not?
+		=> Click on click Here
+		=> Registration form will open in new tab of a browser
+
+	Registration Form:
+	==================
+	Personal:
+		=> Aadhar => ?
+		=> Roll number => ?
+		=> Name => as per SSC Certificate
+		=> Gender =>
+		=> Date of Birth =>
+		=> Guardian Name =>
+		=> Category =>
+
+	Communication:
+		=> Pincode =>
+		=> House/Door Number => 0
+		=> Street Name =>
+		=> Village Name =>
+		=> City Name =>
+		=> Mandal Name =>
+		=> District =>
+		=> State => 
+		=> Mobile Number => 9,8,7 Dont use 6 series it will not validate try to enter your parents numbers or guardian
+
+	Education:
+		Are you Under graduate or Post graduate?
+			Need to Select Under graduate radio button
+		=> SSC
+			=> Institute Name =>
+			=> Board
+			=> Grade type
+			=> points => your percentage/CGPA =>
+			=> Year of Passing
+		=> Inter/Dipoma
+			=> Institute Name =>
+			=> Board
+			=> Grade type
+			=> points => your percentage/CGPA =>
+			=> Year of Passing
+		=> Graduation
+			=> College Name
+			=> Affliated to
+			=> Branch
+			=> Pursuing Year
+			=> Grading type
+			=> No of backlogs => 0
+			=> Date of joining =>
+			=> Graduation date => 
+			=> Type => regular/diploma
+
+	Placements:
+		=> yes or no
+
+	=> Register
+
+	=> Window => Good Job
+
+	
