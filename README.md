@@ -15,5 +15,5 @@ Day-02[12-03-2024]:
 
 Day-03[13-03-2024]:
 ===================
-  - Function ARgument Types like default,required and keyword arguments with sample example on each
+  - Function Argument Types like default,required and keyword arguments with sample example on each
   - Acessing of Class and method by using module
