@@ -16,4 +16,11 @@ Day-02[12-03-2024]:
 Day-03[13-03-2024]:
 ===================
   - Function Argument Types like default,required and keyword arguments with sample example on each
-  - Acessing of Class and method by using module
+  - Accessing of Class and method by using module
+
+Day-04[14-03-2024]:
+==================
+  - Packages and Modules accessing of package with sample example
+  - Django Installation and Version check
+  - Project Creation and Overview of files in it
+  - Running of a project
