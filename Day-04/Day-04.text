@@ -1,0 +1,74 @@
+Day-04[14-03-2024]:
+===================
+	Good Evening All..
+
+	Instructions in Online Session:
+	===============================
+		- Try to  rename your names in the given format i.e.,
+			=> Rollnumber-name-branch
+			Ex:
+			   21NNA1201-ramya-CSE
+			   If you are a faculty rename in the same format instead of roll number enter employee id
+			   S2345-Tilak-CSE
+			   Dont include spaces in between the format. Based on this format zoom will creates a log file. 
+		- Try to mute by yourself while joining the session 
+		- If you are not renaming in the given format you will be removed from the meeting and you should be in session for 2 hours per day.
+		- If any doubts try to unmute and speak or else try to reply in the chat box.
+		- Try to intimate for your friends to join the session as soon as possible.
+
+	Task:
+	======
+		- Introduction to Django
+		- Advantages and Disadvantages
+		- History of Django
+		- Application of Django
+
+	Django Installation:
+	====================
+		- cmd
+		- pip install django [Latest]
+			=> pip install django==3.2 [Selected version]
+		- cmd
+
+	Uninstall of Django:
+	====================
+		- cmd
+		- pip uninstall django 
+		- Y/N
+		- cmd 
+
+	Django Version Check:
+	=====================
+		- cmd
+		- django-admin --version
+
+	Project Creation:
+	=================
+		- cmd
+		- django-admin startproject "Projectname"
+			Ex:
+				=> django-admin startproject ExampleProject
+				=> ExampleProject [ProjectFolder]
+				=> Click and navigated into project folder
+					=> ExampleProject => AdminApp
+					=> manage.py => service file
+
+	Running of a Project:
+	=====================
+		- manage.py exist access that location through cmd
+		- py manage.py runserver
+			=> python manage.py runserver
+			=> maange.py runserver
+
+		=> Browser:
+		===========
+			- url => 127.0.0.1:8000
+			- 127.0.0.1 => ip address => domain
+				=> localhost = 127.0.0.1
+
+	Admin App Overview:
+	===================
+		- init => it can be considered as a python(.py) file
+		- asgi => Asynchronous Gate way Interface
+		- wsgi => Web server Gate way Interface
+		- url => checks whether the url is existing in the path or not
