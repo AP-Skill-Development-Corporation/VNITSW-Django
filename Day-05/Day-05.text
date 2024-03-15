@@ -1,0 +1,96 @@
+Day-05[15-03-2024]:
+===================
+	Good Evening All..
+
+	Instructions in Online Session:
+	===============================
+		- Try to  rename your names in the given format i.e.,
+			=> Rollnumber-name-branch
+			Ex:
+			   21NNA1201-ramya-CSE
+			   If you are a faculty rename in the same format instead of roll number enter employee id
+			   S2345-Tilak-CSE
+			   Dont include spaces in between the format. Based on this format zoom will creates a log file. 
+		- Try to mute by yourself while joining the session 
+		- If you are not renaming in the given format you will be removed from the meeting and you should be in session for 2 hours per day.
+		- If any doubts try to unmute and speak or else try to reply in the chat box.
+		- Try to intimate for your friends to join the session as soon as possible.
+
+
+	Admin App Overview:
+	===================
+		- init => it can be considered as a python(.py) file
+		- asgi => Asynchronous Gate way Interface
+		- wsgi => Web server Gate way Interface
+		- url => checks whether the url is existing in the path or not
+		- settings => All configurations [app,email,.html,css,images,audio,video]
+
+	Server Break:
+	=============
+		- cmd
+		- cntrl + c
+
+	Port Number change:
+	===================
+		- cmd
+		- py manage.py runserver newportnumber
+			Ex: 
+				py manage.py runserver 1234
+
+	UserApp Creation:
+	=================
+		- cmd
+		- django-admin startapp appname
+			Ex:
+				=> django-admin startapp demoapp
+				or
+		- py manage.py startapp appname
+			Ex:
+				=> py manage.py startapp demoapp
+
+	UserApp[DemoApp]:
+	=================
+		- init => it can be considered as a python(.py) file
+		- admin => User tables access,list filteration
+		- apps => app configuration
+		- models => creation of table,fields
+		- tests => unit testing,black box testing
+		- views => logic
+
+	Path:
+	=====
+		path('urlname/',modulename.functionname,name="url of a name"),
+
+		urlname => '' => browser => localhost:8000/urlname/
+
+		.py[function] => task to perform => method
+
+		name => anchor tags => back page => data to be sent for other files
+
+
+	Data types to be used in url patterns => int,string and slug
+
+		rajesh is good at teaching
+		slug => rajesh-is-good-at-teaching
+
+	CSS => inline,internal,external
+	blocked elements => new line 
+	inline elements => inline output
+
+	Task:
+	=====
+		- Bank Application by using oops concepts [Task-1]
+
+		[Task-2]
+			- .csv [static]
+				Account number,Name,Balance
+				SB4578,Kalyani,45000
+				SB7845,Prasad,52000
+
+			- .csv [Bank balance highest to lowest preference]
+				Account number,Name,Balance
+				SB7845,Prasad,52000
+				SB4578,Kalyani,45000
+
+		- HTML Tags,CSS Styling properties and values
+		- Form Controls
