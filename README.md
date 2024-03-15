@@ -27,7 +27,7 @@ Day-04[14-03-2024]:
 
 Day-05[15-03-2024]:
 ===================
-  - UserApp Creation and Overview if files in it
+  - UserApp Creation and Overview of files in it
   - Interface between controllers(urls and views)
   - Dynamic url mapping with single and n parameters sample example on it
   - HttpRequest and Response with dyanimc data by using html and inline css
