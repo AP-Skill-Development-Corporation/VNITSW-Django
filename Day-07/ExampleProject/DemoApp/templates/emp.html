@@ -1,0 +1,31 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Employee form</title>
+	<link rel="stylesheet" type="text/css" href="{% static 'css/extc.css' %}">
+</head>
+<body>
+	<h3>Registration</h3>
+	<form method="post">
+		{% csrf_token %}
+		<label>Employee Id: </label>
+		<input type="text" name="ed"><br/>
+		<label>Name of Employee: </label>
+		<input type="text" name="en"><br/>
+		<label>Age: </label>
+		<input type="number" name="ea" max="100" min="20"><br/>
+		<label>Designation: </label>
+		<select name="edg">
+			<option> -- Select your Designation -- </option>
+			<option>Manager</option>
+			<option>Trainee</option>
+			<option>Intern</option>
+		</select><br/>
+		<button type="reset">Reset</button>
+		<button type="submit" id="sb">Submit</button>
+	</form>
+</body>
+</html>
