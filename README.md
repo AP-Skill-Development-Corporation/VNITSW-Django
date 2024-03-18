@@ -37,3 +37,9 @@ Day-06[16-03-2024]:
   - HttpResponse with javascript
   - Template Folder Creation and accessing of .html file
   - Interface between controller and template,internal css access
+
+Day-07[18-03-2024]:
+===================
+  - Static File Handling for CSS
+  - Form methods, styling of css in browser
+  - Interface between controller to template and template to controller and then to another template
