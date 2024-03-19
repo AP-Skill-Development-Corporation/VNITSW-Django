@@ -43,3 +43,9 @@ Day-07[18-03-2024]:
   - Static File Handling for CSS
   - Form methods, styling of css in browser
   - Interface between controller to template and template to controller and then to another template
+
+Day-08[19-03-2024]:
+===================
+  - Static file Handling for js and images
+  - Model Creation, Makemigrations and migrate
+  - ORM Query for inserting a record
