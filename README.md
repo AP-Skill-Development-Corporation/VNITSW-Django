@@ -49,3 +49,8 @@ Day-08[19-03-2024]:
   - Static file Handling for js and images
   - Model Creation, Makemigrations and migrate
   - ORM Query for inserting a record
+
+Day-09[20-03-2024]:
+==================
+  - CRUD Operations by using shell
+  - Create,Read,Update and Delete for a single and n number of records
