@@ -54,3 +54,8 @@ Day-09[20-03-2024]:
 ==================
   - CRUD Operations by using shell
   - Create,Read,Update and Delete for a single and n number of records
+
+Day-10[21-03-2024]:
+==================
+  - Bootstrap-4 Overview
+  - Grid System,margin,padding,container,jumbotron,color and card with sample example on each
