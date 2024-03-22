@@ -1,0 +1,26 @@
+h3
+{
+	margin-left: 30%;
+    margin-right: 30%;
+    padding: 10px;
+    border: 2px solid green;
+    border-radius: 10px 25px 25px 10px;
+    text-align: center;
+}
+form
+{
+	margin-left: 30%;
+    margin-right: 30%;
+    padding: 10px;
+    border: 1px solid violet;
+    border-radius: 5px;
+}
+
+input,label,select,button{
+	margin-top: 8px;
+}
+
+#sb
+{
+	float: right;
+}
