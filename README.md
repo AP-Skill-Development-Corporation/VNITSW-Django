@@ -63,4 +63,8 @@ Day-10[21-03-2024]:
 Day-11[22-03-2024]:
 ===================
   - Completed Form and Table Creation design
-  - Create and Retrieve data from databse
+  - Create and Retrieve data from database
+
+Day-12[23-03-2024]:
+===================
+  - Update and Delete Procedure by using html forms
