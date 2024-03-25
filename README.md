@@ -68,3 +68,8 @@ Day-11[22-03-2024]:
 Day-12[23-03-2024]:
 ===================
   - Update and Delete Procedure by using html forms
+
+Day-13[25-03-2024]:
+===================
+  - Checked Attendance Task
+  - Completed Design for Employee form by using Forms concept and inserted the data through it
