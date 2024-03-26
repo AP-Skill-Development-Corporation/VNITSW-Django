@@ -73,3 +73,9 @@ Day-13[25-03-2024]:
 ===================
   - Checked Attendance Task
   - Completed Design for Employee form by using Forms concept and inserted the data through it
+
+Day-14[26-03-2024]:
+===================
+  - Retrieve,Update and Delete by using forms concept
+  - Superuser Creation and Useage of admin app
+  - Roles of User with sample example
