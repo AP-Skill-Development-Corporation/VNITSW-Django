@@ -1,0 +1,29 @@
+Day-15[27-03-2024]:
+===================
+	Good Evening All..
+
+	Instructions in Online Session:
+	===============================
+		- Try to  rename your names in the given format i.e.,
+			=> Rollnumber-name-branch
+			Ex:
+			   21NNA1201-ramya-CSE
+			   If you are a faculty rename in the same format instead of roll number enter employee id
+			   S2345-Tilak-CSE
+			   Dont include spaces in between the format. Based on this format zoom will creates a log file.
+		- Try to mute by yourself while joining the session 
+		- If you are not renaming in the given format you will be removed from the meeting and you should be in session for 2 hours per day.
+		- If any doubts try to unmute and speak or else try to reply in the chat box.
+		- Try to intimate for your friends to join the session as soon as possible.
+
+	Project Name: VNITSW
+		App Name: FirstApp
+
+	Template blocks
+		=> {% block content %}
+				//content to display
+		   {% endblock %}
+		=> AS usual for other tags to access other data for other files
+
+
+
