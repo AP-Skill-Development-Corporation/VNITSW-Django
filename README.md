@@ -79,3 +79,7 @@ Day-14[26-03-2024]:
   - Retrieve,Update and Delete by using forms concept
   - Superuser Creation and Useage of admin app
   - Roles of User with sample example
+
+Day-15[27-03-2024]:
+===================
+  - Another Project and App creation then Using template blocks for it
